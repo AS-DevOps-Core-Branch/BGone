@@ -1,5 +1,6 @@
 fastapi
 uvicorn
-withoutbg
+rembg
 pillow
 python-multipart
+
